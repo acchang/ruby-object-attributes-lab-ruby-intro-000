@@ -9,7 +9,7 @@ class Person
   end
 end
 
-def breed=(dog_breed)
+def job=(person_job)
   @this_dogs_breed = dog_breed
 end
 
