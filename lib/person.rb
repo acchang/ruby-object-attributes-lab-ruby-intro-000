@@ -10,10 +10,10 @@ class Person
 end
 
 def job=(person_job)
-  @this_dogs_breed = dog_breed
+  @this_person_job = person_job
 end
 
-def name
-  @this_dogs_breed
+def job
+  @this_person_job
 end
 end
