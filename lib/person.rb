@@ -16,3 +16,4 @@ end
 def job
   @this_person_job
 end
+end
