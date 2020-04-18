@@ -1,11 +1,11 @@
 class Person
 
-  def name=(dog_name)
-    @this_dogs_name = dog_name
+  def name=(person_name)
+    @this_person_name = person_name
   end
 
   def name
-    @this_dogs_name
+    @this_person_name
   end
 end
 
