@@ -7,13 +7,12 @@ class Person
   def name
     @this_person_name
   end
-end
 
-def job=(person_job)
+  def job=(person_job)
   @this_person_job = person_job
-end
+  end
 
-def job
+  def job
   @this_person_job
-end
+  end
 end
